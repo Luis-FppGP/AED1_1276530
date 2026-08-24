@@ -6,8 +6,8 @@ Problema    : https://judge.beecrowd.com/pt/problems/view/1080
 Data        : 24/08/2026
 Objetivo    : Mostrar o maior valor de um vetor de 100 inteiros positivos.
 Dificuldade : Nenhum, o problema e simples, mas por lguma razão não estava tendo acertos corretor no judge
-Uso de IA   : Usei IA porque o judge estava colocando meu problema como errado mesmo apos eu corrigi-lo varias vezes, mas ainda assim 
-              nao foi o suficiente
+Uso de IA   : Usei IA(claude) porque o judge estava colocando meu problema como errado mesmo apos eu corrigi-lo varias vezes, mas ainda assim 
+              nao foi o suficiente, entao o submeti assim mesmo
 -------------------------------------------------------------------------- */
 
 
