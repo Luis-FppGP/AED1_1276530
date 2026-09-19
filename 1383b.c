@@ -3,7 +3,7 @@ Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : Luis Felippe Guimaraes Pinheiro
 Linguagem   : C
 Problema    : 
-Data        : 24/08/2026
+Data        : 18/09/2026
 Objetivo    : dizer se uma matriz 9x9 forma um sistema de sudoku.
 Dificuldade : fazer a analise das matrizes 3x3 de cada instancia. Depois de um tempo, e possivel ver uma forma mais facil
               mas eu tenho um serio problema de ser preguicoso e tentar sofrer usando o mesmo codigo do que mudar fazer tudo de novo
