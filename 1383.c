@@ -10,7 +10,7 @@ Dificuldade : fazer a analise das matrizes 3x3 de cada instancia. Depois de um t
               desde o comeco. Gastei um tempo quebrando a cabeça, no final joguei pra IA e tentei codar o que ela me recomendou.              
 Uso de IA   : A parte da grade 3x3 estava dando erro entao pedi correcao da IA(claude). A principio eu ia fazer uma matriz R4
             pra poder separar as partes de 3x3 mas estava dando muito trabalho, e no final ele recomendou usar uma flag. Eu implementei
-            o que foi recomendado,e fiz mais umas correcoes porque eu sou burro e nao sirvo nem pra colocar "" e ; direito.
+            o que foi recomendado,e fiz mais algumas correcoes.
 -------------------------------------------------------------------------- */
  
  //O programa primeiro varre o vetor N, com instancias n que representam a grade do sudoku de 81 valores para cada instancia
