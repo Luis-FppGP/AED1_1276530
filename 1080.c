@@ -26,7 +26,7 @@ int main() {
         }
     }
     
-    printf("%d\n%d", maior, indice + 1);
+    printf("%d\n%d\n", maior, indice + 1);
  
     return 0;
 }
