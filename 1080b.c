@@ -7,7 +7,7 @@ Data        : 15/09/2026
 Objetivo    : Mostrar o maior valor de um vetor de 100 inteiros positivos.
 Dificuldade : Nenhum, o problema e simples, mas por lguma razão não estava tendo acertos corretor no judge
 Uso de IA   : Usei IA porque o judge estava colocando meu problema como errado mesmo apos eu corrigi-lo varias vezes, mas ainda assim 
-              nao foi o suficiente
+              nao foi o suficiente.
 -------------------------------------------------------------------------- */
 
 
