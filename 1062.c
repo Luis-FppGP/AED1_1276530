@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : Luis Felippe Guimaraes Pinheiro
 Linguagem   : C
-Problema    : 1062
+Problema    : https://judge.beecrowd.com/pt/problems/view/1062
 Data        : 23/11/2026
 Objetivo    : Ver se, dado um vetor ordenado de forma crescente, podemos empilhá-lo e desempilhá-lo em dada ordem.
 Dificuldade : Entender o que o enunciado queria dizer, e como implementar de forma simples.
