@@ -2,7 +2,7 @@
 Disciplina  : Algortimo e Estrutura de Dados 2026S1
 Nome        : Luis Felippe Guimaraes Pinheiro
 Linguagem   : C
-Problema    : 
+Problema    : https://judge.beecrowd.com/pt/problems/view/1383
 Data        : 18/09/2026
 Objetivo    : dizer se uma matriz 9x9 forma um sistema de sudoku.
 Dificuldade : fazer a analise das matrizes 3x3 de cada instancia. Depois de um tempo, e possivel ver uma forma mais facil
